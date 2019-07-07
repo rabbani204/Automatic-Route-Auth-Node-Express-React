@@ -6,5 +6,5 @@ var permissionSchema=new Schema({
   routetitle: {type:String, required:true},
   useremail: {type:String, required:true}
 });
-
+   
 module.exports=mongoose.model('Permission',permissionSchema);
