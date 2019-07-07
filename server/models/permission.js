@@ -1,6 +1,6 @@
 var mongoose=require('mongoose');
 var Schema=mongoose.Schema;
-
+     
 var permissionSchema=new Schema({
 //   userid: {type:String, required:true},
   routetitle: {type:String, required:true},
