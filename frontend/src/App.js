@@ -12,9 +12,9 @@ export default class PersonList extends React.Component {
        <div className="App">
 	   <nav className="navbar navbar-light">
 	   <li class="nav-item">
-        <a class="nav-link" href="/login">Login</a>
+        <a class="nav-link" type="button" href="/login">Login</a>
       </li>
-       </nav>
+       </nav>       
 			<Router>
 				<div className="App">
 				<Switch>
