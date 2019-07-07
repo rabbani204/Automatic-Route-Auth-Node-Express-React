@@ -1,0 +1,46 @@
+.App {
+
+}
+
+.card{
+	padding-top: 50px;
+	height: 100%;
+}
+
+.buttonholder{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.btn-primary{
+	background-color: #455A64;
+}
+
+p{
+	color: red !important;
+}
+
+h1{
+	text-align: center !important;
+	color: #546E7A !important;
+}
+
+#card-body{
+	padding-left: 255px!important;
+	padding-right: 255px!important;
+	background-color: #90A4AE!important;
+}
+
+.formholder{
+	background-color: white;
+	padding: 45px;
+}
+
+.buttonholder{
+	margin-top: 50px;
+	padding-left: 40%;
+}
+
+.btn-success{
+	width: 250px;
+}
